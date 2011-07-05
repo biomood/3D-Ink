@@ -1,0 +1,443 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		020418A910F0F6B000CCC6C4 /* ErrorMessage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 020418A810F0F6B000CCC6C4 /* ErrorMessage.cpp */; };
+		02041CC910FCBA1500CCC6C4 /* libfreeimage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 02041CC810FCBA1500CCC6C4 /* libfreeimage.a */; };
+		021C45751119D3320008B353 /* StereoBrowser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 021C45741119D3320008B353 /* StereoBrowser.cpp */; };
+		0230E1FB101B185C0005DDEA /* Model.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0230E1FA101B185C0005DDEA /* Model.cpp */; };
+		0230E264101B4C510005DDEA /* View.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0230E263101B4C510005DDEA /* View.cpp */; };
+		0230E324101CCAB20005DDEA /* Controller.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0230E323101CCAB20005DDEA /* Controller.cpp */; };
+		027A2BFB10C538CB0098F91B /* DS_PRQuadtree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 027A2BFA10C538CB0098F91B /* DS_PRQuadtree.cpp */; };
+		027C5652100CC28B00006C32 /* StereoCamera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 027C5651100CC28B00006C32 /* StereoCamera.cpp */; };
+		02A157451298407500073DF3 /* xmlParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02A157441298407500073DF3 /* xmlParser.cpp */; };
+		02B1506A1110C356004DD4CE /* ImageBrowser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02B150691110C356004DD4CE /* ImageBrowser.cpp */; };
+		02E5A5E51017ADC5004604D9 /* DS_List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02E5A5E41017ADC5004604D9 /* DS_List.cpp */; };
+		02E7C0B81095C51700DE1F5E /* Settings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02E7C0B71095C51700DE1F5E /* Settings.cpp */; };
+		02F6D03710AF0BE400CA86B2 /* DS_QuadTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02F6D03610AF0BE400CA86B2 /* DS_QuadTree.cpp */; };
+		02F8ABAE11E3AC7B00797F36 /* DS_Octree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02F8ABAD11E3AC7B00797F36 /* DS_Octree.cpp */; };
+		02F9DA0B1008D1FD007EC737 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02F9DA0A1008D1FD007EC737 /* GLUT.framework */; };
+		02F9DA181008D22F007EC737 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02F9DA171008D22F007EC737 /* Carbon.framework */; };
+		02F9DA1D1008D24C007EC737 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02F9DA1C1008D24C007EC737 /* OpenGL.framework */; };
+		02F9DA211008D264007EC737 /* AGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02F9DA201008D264007EC737 /* AGL.framework */; };
+		02F9DA8D1008D4FD007EC737 /* libglfw.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 02F9DA8C1008D4FD007EC737 /* libglfw.a */; };
+		02F9DB26100C7E27007EC737 /* MonoCamera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02F9DB25100C7E27007EC737 /* MonoCamera.cpp */; };
+		02FF48A910E8009E00F048B6 /* GLUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02FF48A810E8009E00F048B6 /* GLUI.framework */; };
+		02FF48B010E800C900F048B6 /* FileBrowser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02FF48AF10E800C900F048B6 /* FileBrowser.cpp */; };
+		02FF48B510E8013200F048B6 /* SaveBrowser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 02FF48B410E8013200F048B6 /* SaveBrowser.cpp */; };
+		8DD76F650486A84900D96B5E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* main.cpp */; settings = {ATTRIBUTES = (); }; };
+		8DD76F6A0486A84900D96B5E /* 3d Ink.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859E8B029090EE04C91782 /* 3d Ink.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8DD76F690486A84900D96B5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				8DD76F6A0486A84900D96B5E /* 3d Ink.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		020418A810F0F6B000CCC6C4 /* ErrorMessage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ErrorMessage.cpp; sourceTree = "<group>"; };
+		02041CC810FCBA1500CCC6C4 /* libfreeimage.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libfreeimage.a; sourceTree = "<group>"; };
+		02041CCA10FCBA2A00CCC6C4 /* FreeImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FreeImage.h; sourceTree = "<group>"; };
+		021C45741119D3320008B353 /* StereoBrowser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StereoBrowser.cpp; sourceTree = "<group>"; };
+		0230E1FA101B185C0005DDEA /* Model.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Model.cpp; sourceTree = "<group>"; };
+		0230E262101B4C510005DDEA /* View.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View.h; sourceTree = "<group>"; };
+		0230E263101B4C510005DDEA /* View.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = View.cpp; sourceTree = "<group>"; };
+		0230E322101CCAB20005DDEA /* Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Controller.h; sourceTree = "<group>"; };
+		0230E323101CCAB20005DDEA /* Controller.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Controller.cpp; sourceTree = "<group>"; };
+		0230E3BC101E4D650005DDEA /* Settings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Settings.h; sourceTree = "<group>"; };
+		025C53C310A3697000C0595D /* Analysis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Analysis.h; sourceTree = "<group>"; };
+		027A2BFA10C538CB0098F91B /* DS_PRQuadtree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DS_PRQuadtree.cpp; sourceTree = "<group>"; };
+		027C5651100CC28B00006C32 /* StereoCamera.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StereoCamera.cpp; sourceTree = "<group>"; };
+		02A157431298406C00073DF3 /* xmlParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xmlParser.h; sourceTree = "<group>"; };
+		02A157441298407500073DF3 /* xmlParser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = xmlParser.cpp; sourceTree = "<group>"; };
+		02B150691110C356004DD4CE /* ImageBrowser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ImageBrowser.cpp; sourceTree = "<group>"; };
+		02E5A5BF101740E0004604D9 /* Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		02E5A5DA1017AD13004604D9 /* DataStructure.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataStructure.h; sourceTree = "<group>"; };
+		02E5A5E41017ADC5004604D9 /* DS_List.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DS_List.cpp; sourceTree = "<group>"; };
+		02E5A63A101881BD004604D9 /* UtilityClasses.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UtilityClasses.h; sourceTree = "<group>"; };
+		02E7C0B71095C51700DE1F5E /* Settings.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Settings.cpp; sourceTree = "<group>"; };
+		02F6D03610AF0BE400CA86B2 /* DS_QuadTree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DS_QuadTree.cpp; sourceTree = "<group>"; };
+		02F8ABAD11E3AC7B00797F36 /* DS_Octree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DS_Octree.cpp; sourceTree = "<group>"; };
+		02F9DA0A1008D1FD007EC737 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = /System/Library/Frameworks/GLUT.framework; sourceTree = "<absolute>"; };
+		02F9DA171008D22F007EC737 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = /System/Library/Frameworks/Carbon.framework; sourceTree = "<absolute>"; };
+		02F9DA1C1008D24C007EC737 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
+		02F9DA201008D264007EC737 /* AGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AGL.framework; path = /System/Library/Frameworks/AGL.framework; sourceTree = "<absolute>"; };
+		02F9DA8C1008D4FD007EC737 /* libglfw.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libglfw.a; sourceTree = "<group>"; };
+		02F9DA901008D509007EC737 /* glfw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = glfw.h; sourceTree = "<group>"; };
+		02F9DB25100C7E27007EC737 /* MonoCamera.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MonoCamera.cpp; sourceTree = "<group>"; };
+		02F9DB3B100CAEAF007EC737 /* Camera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Camera.h; sourceTree = "<group>"; };
+		02FF47BF10E7FFBE00F048B6 /* FileGUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileGUI.h; sourceTree = "<group>"; };
+		02FF48A810E8009E00F048B6 /* GLUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUI.framework; path = Library/Frameworks/GLUI.framework; sourceTree = SDKROOT; };
+		02FF48AF10E800C900F048B6 /* FileBrowser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FileBrowser.cpp; sourceTree = "<group>"; };
+		02FF48B410E8013200F048B6 /* SaveBrowser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SaveBrowser.cpp; sourceTree = "<group>"; };
+		08FB7796FE84155DC02AAC07 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8DD76F6C0486A84900D96B5E /* 3d Ink */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "3d Ink"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6859E8B029090EE04C91782 /* 3d Ink.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = "3d Ink.1"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8DD76F660486A84900D96B5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				02F9DA0B1008D1FD007EC737 /* GLUT.framework in Frameworks */,
+				02F9DA181008D22F007EC737 /* Carbon.framework in Frameworks */,
+				02F9DA1D1008D24C007EC737 /* OpenGL.framework in Frameworks */,
+				02F9DA211008D264007EC737 /* AGL.framework in Frameworks */,
+				02F9DA8D1008D4FD007EC737 /* libglfw.a in Frameworks */,
+				02FF48A910E8009E00F048B6 /* GLUI.framework in Frameworks */,
+				02041CC910FCBA1500CCC6C4 /* libfreeimage.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0230E22B101B1C970005DDEA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0230E262101B4C510005DDEA /* View.h */,
+				0230E263101B4C510005DDEA /* View.cpp */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		025C53C210A3695700C0595D /* Analysis */ = {
+			isa = PBXGroup;
+			children = (
+				025C53C310A3697000C0595D /* Analysis.h */,
+			);
+			name = Analysis;
+			sourceTree = "<group>";
+		};
+		02A1573F1298405300073DF3 /* XML */ = {
+			isa = PBXGroup;
+			children = (
+				02A157441298407500073DF3 /* xmlParser.cpp */,
+				02A157431298406C00073DF3 /* xmlParser.h */,
+			);
+			name = XML;
+			sourceTree = "<group>";
+		};
+		02D91227104C3B7F009BF587 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				02E5A5BF101740E0004604D9 /* Model.h */,
+				0230E1FA101B185C0005DDEA /* Model.cpp */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		02D91228104C3B92009BF587 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				0230E322101CCAB20005DDEA /* Controller.h */,
+				0230E323101CCAB20005DDEA /* Controller.cpp */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		02D92CE110696B0200997246 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				0230E3BC101E4D650005DDEA /* Settings.h */,
+				02E7C0B71095C51700DE1F5E /* Settings.cpp */,
+			);
+			name = Settings;
+			sourceTree = "<group>";
+		};
+		02E5A61B1017B982004604D9 /* DataStructures */ = {
+			isa = PBXGroup;
+			children = (
+				02E5A5DA1017AD13004604D9 /* DataStructure.h */,
+				02E5A5E41017ADC5004604D9 /* DS_List.cpp */,
+				027A2BFA10C538CB0098F91B /* DS_PRQuadtree.cpp */,
+				02F6D03610AF0BE400CA86B2 /* DS_QuadTree.cpp */,
+				02F8ABAD11E3AC7B00797F36 /* DS_Octree.cpp */,
+			);
+			name = DataStructures;
+			sourceTree = "<group>";
+		};
+		02E5A61E1017B9A5004604D9 /* Camera */ = {
+			isa = PBXGroup;
+			children = (
+				02F9DB3B100CAEAF007EC737 /* Camera.h */,
+				027C5651100CC28B00006C32 /* StereoCamera.cpp */,
+				02F9DB25100C7E27007EC737 /* MonoCamera.cpp */,
+			);
+			name = Camera;
+			sourceTree = "<group>";
+		};
+		02E5A63910188199004604D9 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				02E5A63A101881BD004604D9 /* UtilityClasses.h */,
+				02FF47BF10E7FFBE00F048B6 /* FileGUI.h */,
+				02FF48AF10E800C900F048B6 /* FileBrowser.cpp */,
+				02FF48B410E8013200F048B6 /* SaveBrowser.cpp */,
+				020418A810F0F6B000CCC6C4 /* ErrorMessage.cpp */,
+				02B150691110C356004DD4CE /* ImageBrowser.cpp */,
+				021C45741119D3320008B353 /* StereoBrowser.cpp */,
+			);
+			name = Utility;
+			sourceTree = "<group>";
+		};
+		02F9DA8B1008D4FD007EC737 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				02041CC810FCBA1500CCC6C4 /* libfreeimage.a */,
+				02F9DA8C1008D4FD007EC737 /* libglfw.a */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		02F9DA8E1008D508007EC737 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				02041CCA10FCBA2A00CCC6C4 /* FreeImage.h */,
+				02F9DA8F1008D508007EC737 /* GL */,
+			);
+			path = include;
+			sourceTree = "<group>";
+		};
+		02F9DA8F1008D508007EC737 /* GL */ = {
+			isa = PBXGroup;
+			children = (
+				02F9DA901008D509007EC737 /* glfw.h */,
+			);
+			path = GL;
+			sourceTree = "<group>";
+		};
+		08FB7794FE84155DC02AAC07 /* 3d Ink */ = {
+			isa = PBXGroup;
+			children = (
+				02F9DA8B1008D4FD007EC737 /* lib */,
+				02F9DA8E1008D508007EC737 /* include */,
+				02F9DA201008D264007EC737 /* AGL.framework */,
+				02F9DA1C1008D24C007EC737 /* OpenGL.framework */,
+				02F9DA171008D22F007EC737 /* Carbon.framework */,
+				02FF48A810E8009E00F048B6 /* GLUI.framework */,
+				02F9DA0A1008D1FD007EC737 /* GLUT.framework */,
+				08FB7795FE84155DC02AAC07 /* Source */,
+				C6859E8C029090F304C91782 /* Documentation */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = "3d Ink";
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				02A1573F1298405300073DF3 /* XML */,
+				025C53C210A3695700C0595D /* Analysis */,
+				02D92CE110696B0200997246 /* Settings */,
+				02D91228104C3B92009BF587 /* Controller */,
+				02D91227104C3B7F009BF587 /* Model */,
+				0230E22B101B1C970005DDEA /* View */,
+				02E5A63910188199004604D9 /* Utility */,
+				02E5A61E1017B9A5004604D9 /* Camera */,
+				02E5A61B1017B982004604D9 /* DataStructures */,
+				08FB7796FE84155DC02AAC07 /* main.cpp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD76F6C0486A84900D96B5E /* 3d Ink */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C6859E8C029090F304C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				C6859E8B029090EE04C91782 /* 3d Ink.1 */,
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8DD76F620486A84900D96B5E /* 3d Ink */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB923108733DC60010E9CD /* Build configuration list for PBXNativeTarget "3d Ink" */;
+			buildPhases = (
+				8DD76F640486A84900D96B5E /* Sources */,
+				8DD76F660486A84900D96B5E /* Frameworks */,
+				8DD76F690486A84900D96B5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "3d Ink";
+			productInstallPath = "$(HOME)/bin";
+			productName = "3d Ink";
+			productReference = 8DD76F6C0486A84900D96B5E /* 3d Ink */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "3d Ink" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 08FB7794FE84155DC02AAC07 /* 3d Ink */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD76F620486A84900D96B5E /* 3d Ink */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8DD76F640486A84900D96B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD76F650486A84900D96B5E /* main.cpp in Sources */,
+				02F9DB26100C7E27007EC737 /* MonoCamera.cpp in Sources */,
+				027C5652100CC28B00006C32 /* StereoCamera.cpp in Sources */,
+				02E5A5E51017ADC5004604D9 /* DS_List.cpp in Sources */,
+				0230E1FB101B185C0005DDEA /* Model.cpp in Sources */,
+				0230E264101B4C510005DDEA /* View.cpp in Sources */,
+				0230E324101CCAB20005DDEA /* Controller.cpp in Sources */,
+				02E7C0B81095C51700DE1F5E /* Settings.cpp in Sources */,
+				02F6D03710AF0BE400CA86B2 /* DS_QuadTree.cpp in Sources */,
+				027A2BFB10C538CB0098F91B /* DS_PRQuadtree.cpp in Sources */,
+				02FF48B010E800C900F048B6 /* FileBrowser.cpp in Sources */,
+				02FF48B510E8013200F048B6 /* SaveBrowser.cpp in Sources */,
+				020418A910F0F6B000CCC6C4 /* ErrorMessage.cpp in Sources */,
+				02B1506A1110C356004DD4CE /* ImageBrowser.cpp in Sources */,
+				021C45751119D3320008B353 /* StereoBrowser.cpp in Sources */,
+				02F8ABAE11E3AC7B00797F36 /* DS_Octree.cpp in Sources */,
+				02A157451298407500073DF3 /* xmlParser.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB923208733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_GLIBCXX_DEBUG=1",
+					"_GLIBCXX_DEBUG_PEDANTIC=1",
+				);
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/lib\"",
+				);
+				PRODUCT_NAME = "3d Ink";
+			};
+			name = Debug;
+		};
+		1DEB923308733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/lib\"",
+				);
+				PRODUCT_NAME = "3d Ink";
+			};
+			name = Release;
+		};
+		1DEB923608733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				FRAMEWORK_SEARCH_PATHS = bin/;
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_ONE_BYTE_BOOL = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_FUNCTION = NO;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = include/;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		1DEB923708733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = include/;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB923108733DC60010E9CD /* Build configuration list for PBXNativeTarget "3d Ink" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923208733DC60010E9CD /* Debug */,
+				1DEB923308733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "3d Ink" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923608733DC60010E9CD /* Debug */,
+				1DEB923708733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}
