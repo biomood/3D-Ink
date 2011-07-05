@@ -1,0 +1,2493 @@
+﻿<?xml version="1.0"?>
+<sketch type="list">
+	<point>
+		<coord x="-1.999536" y="-0.000000" z="-0.000000"/>
+		<pixel x="-1073745656" y="1040217430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="0.000000" blank="1"/>
+	</point>
+	<point>
+		<coord x="89.000000" y="65.250000" z="700.000000"/>
+		<pixel x="284" y="139"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.000000" y="63.250000" z="700.000000"/>
+		<pixel x="284" y="147"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.000000" y="60.750000" z="700.000000"/>
+		<pixel x="284" y="157"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.000000" y="57.000000" z="700.000000"/>
+		<pixel x="284" y="172"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.000000" y="51.000000" z="700.000000"/>
+		<pixel x="284" y="196"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.000000" y="45.500000" z="700.000000"/>
+		<pixel x="284" y="218"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="88.500000" y="41.750000" z="700.000000"/>
+		<pixel x="286" y="233"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="88.000000" y="37.500000" z="700.000000"/>
+		<pixel x="288" y="250"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="87.750000" y="35.000000" z="700.000000"/>
+		<pixel x="289" y="260"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="87.500000" y="33.000000" z="700.000000"/>
+		<pixel x="290" y="268"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="87.250000" y="31.750000" z="700.000000"/>
+		<pixel x="291" y="273"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="87.250000" y="31.250000" z="700.000000"/>
+		<pixel x="291" y="275"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="87.250000" y="30.750000" z="700.000000"/>
+		<pixel x="291" y="277"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="0.000000" y="0.000000" z="-0.000000"/>
+		<pixel x="-6356529" y="1040217430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="0.000000" blank="1"/>
+	</point>
+	<point>
+		<coord x="88.000000" y="47.250000" z="700.000000"/>
+		<pixel x="288" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="86.750000" y="47.250000" z="700.000000"/>
+		<pixel x="293" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="84.500000" y="47.250000" z="700.000000"/>
+		<pixel x="302" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="81.500000" y="47.250000" z="700.000000"/>
+		<pixel x="314" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="78.500000" y="47.250000" z="700.000000"/>
+		<pixel x="326" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.500000" y="47.250000" z="700.000000"/>
+		<pixel x="338" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="73.750000" y="47.250000" z="700.000000"/>
+		<pixel x="345" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="72.750000" y="47.250000" z="700.000000"/>
+		<pixel x="349" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="72.250000" y="47.250000" z="700.000000"/>
+		<pixel x="351" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="71.750000" y="47.250000" z="700.000000"/>
+		<pixel x="353" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="0.000000" y="0.000000" z="-0.000000"/>
+		<pixel x="-6356529" y="1040217430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="0.000000" blank="1"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="61.000000" z="700.000000"/>
+		<pixel x="357" y="156"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="60.500000" z="700.000000"/>
+		<pixel x="357" y="158"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="59.250000" z="700.000000"/>
+		<pixel x="357" y="163"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="57.250000" z="700.000000"/>
+		<pixel x="357" y="171"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="53.250000" z="700.000000"/>
+		<pixel x="357" y="187"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="50.000000" z="700.000000"/>
+		<pixel x="357" y="200"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="45.750000" z="700.000000"/>
+		<pixel x="357" y="217"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="41.500000" z="700.000000"/>
+		<pixel x="357" y="234"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="37.750000" z="700.000000"/>
+		<pixel x="357" y="249"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="34.750000" z="700.000000"/>
+		<pixel x="357" y="261"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.750000" y="33.000000" z="700.000000"/>
+		<pixel x="357" y="268"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="71.000000" y="31.000000" z="700.000000"/>
+		<pixel x="356" y="276"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="71.000000" y="30.000000" z="700.000000"/>
+		<pixel x="356" y="280"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="71.000000" y="29.750000" z="700.000000"/>
+		<pixel x="356" y="281"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="71.000000" y="29.500000" z="700.000000"/>
+		<pixel x="356" y="282"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="0.000000" y="0.000000" z="-0.000000"/>
+		<pixel x="-6356529" y="1040217430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="0.000000" blank="1"/>
+	</point>
+	<point>
+		<coord x="64.285713" y="30.600000" z="720.000000"/>
+		<pixel x="390" y="281"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="63.000000" y="30.600000" z="720.000000"/>
+		<pixel x="395" y="281"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="60.942856" y="31.371429" z="720.000000"/>
+		<pixel x="403" y="278"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="59.142857" y="32.142857" z="720.000000"/>
+		<pixel x="410" y="275"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="58.114285" y="32.914288" z="720.000000"/>
+		<pixel x="414" y="272"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="56.314285" y="34.457142" z="720.000000"/>
+		<pixel x="421" y="266"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.799999" y="35.485714" z="720.000000"/>
+		<pixel x="423" y="262"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.028572" y="36.771427" z="720.000000"/>
+		<pixel x="426" y="257"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="54.771427" y="37.799999" z="720.000000"/>
+		<pixel x="427" y="253"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="54.771427" y="38.314285" z="720.000000"/>
+		<pixel x="427" y="251"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="54.771427" y="39.085712" z="720.000000"/>
+		<pixel x="427" y="248"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.285713" y="39.599998" z="720.000000"/>
+		<pixel x="425" y="246"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.799999" y="39.857143" z="720.000000"/>
+		<pixel x="423" y="245"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="56.571430" y="39.857143" z="720.000000"/>
+		<pixel x="420" y="245"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="57.342857" y="39.857143" z="720.000000"/>
+		<pixel x="417" y="245"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="57.857143" y="39.857143" z="720.000000"/>
+		<pixel x="415" y="245"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="58.114285" y="39.342857" z="720.000000"/>
+		<pixel x="414" y="247"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="58.628571" y="38.314285" z="720.000000"/>
+		<pixel x="412" y="251"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="59.142857" y="37.028572" z="720.000000"/>
+		<pixel x="410" y="256"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="59.657143" y="35.228573" z="720.000000"/>
+		<pixel x="408" y="263"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="59.657143" y="33.685715" z="720.000000"/>
+		<pixel x="408" y="269"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="59.657143" y="32.400002" z="720.000000"/>
+		<pixel x="408" y="274"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="59.657143" y="31.114286" z="720.000000"/>
+		<pixel x="408" y="279"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="59.142857" y="30.342857" z="720.000000"/>
+		<pixel x="410" y="282"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="57.599998" y="29.571428" z="720.000000"/>
+		<pixel x="416" y="285"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="54.771427" y="29.314285" z="720.000000"/>
+		<pixel x="427" y="286"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="52.457142" y="29.314285" z="720.000000"/>
+		<pixel x="436" y="286"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="49.114285" y="30.085714" z="720.000000"/>
+		<pixel x="449" y="283"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="46.542858" y="31.628571" z="720.000000"/>
+		<pixel x="459" y="277"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="44.228573" y="33.428570" z="720.000000"/>
+		<pixel x="468" y="270"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="42.942856" y="35.742859" z="720.000000"/>
+		<pixel x="473" y="261"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="41.657143" y="39.085712" z="720.000000"/>
+		<pixel x="478" y="248"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.885715" y="42.942856" z="720.000000"/>
+		<pixel x="481" y="233"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.371429" y="48.599998" z="720.000000"/>
+		<pixel x="483" y="211"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.114285" y="53.228573" z="720.000000"/>
+		<pixel x="484" y="193"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.114285" y="55.799999" z="720.000000"/>
+		<pixel x="484" y="183"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.114285" y="57.857143" z="720.000000"/>
+		<pixel x="484" y="175"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.114285" y="58.885715" z="720.000000"/>
+		<pixel x="484" y="171"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.371429" y="59.400002" z="720.000000"/>
+		<pixel x="483" y="169"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.628571" y="59.657143" z="720.000000"/>
+		<pixel x="482" y="168"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.885715" y="59.142857" z="720.000000"/>
+		<pixel x="481" y="170"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="41.400002" y="57.599998" z="720.000000"/>
+		<pixel x="479" y="176"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="41.914288" y="54.514286" z="720.000000"/>
+		<pixel x="477" y="188"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="42.428570" y="49.628571" z="720.000000"/>
+		<pixel x="475" y="207"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="43.200001" y="41.657143" z="720.000000"/>
+		<pixel x="472" y="238"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="43.200001" y="36.514286" z="720.000000"/>
+		<pixel x="472" y="258"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="43.200001" y="30.600000" z="720.000000"/>
+		<pixel x="472" y="281"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="43.200001" y="27.000000" z="720.000000"/>
+		<pixel x="472" y="295"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="42.685715" y="24.171429" z="720.000000"/>
+		<pixel x="474" y="306"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="41.400002" y="22.114286" z="720.000000"/>
+		<pixel x="479" y="314"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.114285" y="20.828571" z="720.000000"/>
+		<pixel x="484" y="319"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.314285" y="20.314285" z="720.000000"/>
+		<pixel x="491" y="321"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="36.514286" y="20.314285" z="720.000000"/>
+		<pixel x="498" y="321"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="34.457142" y="20.314285" z="720.000000"/>
+		<pixel x="506" y="321"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="32.657143" y="20.828571" z="720.000000"/>
+		<pixel x="513" y="319"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="30.857143" y="22.371429" z="720.000000"/>
+		<pixel x="520" y="313"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.799999" y="26.228571" z="720.000000"/>
+		<pixel x="528" y="298"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="27.514286" y="32.400002" z="720.000000"/>
+		<pixel x="533" y="274"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.742857" y="38.057144" z="720.000000"/>
+		<pixel x="536" y="252"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.228571" y="44.742859" z="720.000000"/>
+		<pixel x="538" y="226"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.228571" y="49.371429" z="720.000000"/>
+		<pixel x="538" y="208"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.228571" y="52.457142" z="720.000000"/>
+		<pixel x="538" y="196"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.742857" y="53.485714" z="720.000000"/>
+		<pixel x="536" y="192"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="27.514286" y="54.257141" z="720.000000"/>
+		<pixel x="533" y="189"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.028572" y="54.771427" z="720.000000"/>
+		<pixel x="531" y="187"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.285715" y="54.771427" z="720.000000"/>
+		<pixel x="530" y="187"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.571428" y="50.914288" z="720.000000"/>
+		<pixel x="525" y="202"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.571428" y="47.314285" z="720.000000"/>
+		<pixel x="525" y="216"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.571428" y="42.428570" z="720.000000"/>
+		<pixel x="525" y="235"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.571428" y="38.571430" z="720.000000"/>
+		<pixel x="525" y="250"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.799999" y="33.685715" z="720.000000"/>
+		<pixel x="528" y="269"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="27.257143" y="29.314285" z="720.000000"/>
+		<pixel x="534" y="286"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="25.714285" y="25.714285" z="720.000000"/>
+		<pixel x="540" y="300"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="24.171429" y="22.885714" z="720.000000"/>
+		<pixel x="546" y="311"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="22.371429" y="20.314285" z="720.000000"/>
+		<pixel x="553" y="321"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="21.085714" y="19.285715" z="720.000000"/>
+		<pixel x="558" y="325"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="19.028572" y="18.514286" z="720.000000"/>
+		<pixel x="566" y="328"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.485714" y="18.257143" z="720.000000"/>
+		<pixel x="572" y="329"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="16.200001" y="18.257143" z="720.000000"/>
+		<pixel x="577" y="329"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="14.914286" y="18.514286" z="720.000000"/>
+		<pixel x="582" y="328"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="13.628572" y="20.057142" z="720.000000"/>
+		<pixel x="587" y="322"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="12.600000" y="22.114286" z="720.000000"/>
+		<pixel x="591" y="314"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="11.828571" y="24.685715" z="720.000000"/>
+		<pixel x="594" y="304"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="11.571428" y="27.257143" z="720.000000"/>
+		<pixel x="595" y="294"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="11.571428" y="29.314285" z="720.000000"/>
+		<pixel x="595" y="286"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="11.571428" y="30.342857" z="720.000000"/>
+		<pixel x="595" y="282"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="12.342857" y="31.371429" z="720.000000"/>
+		<pixel x="592" y="278"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="12.857142" y="31.628571" z="720.000000"/>
+		<pixel x="590" y="277"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="13.628572" y="31.628571" z="720.000000"/>
+		<pixel x="587" y="277"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="14.142858" y="31.628571" z="720.000000"/>
+		<pixel x="585" y="277"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="14.914286" y="30.085714" z="720.000000"/>
+		<pixel x="582" y="283"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="15.428572" y="28.285715" z="720.000000"/>
+		<pixel x="580" y="290"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="15.428572" y="26.228571" z="720.000000"/>
+		<pixel x="580" y="298"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="15.428572" y="23.914286" z="720.000000"/>
+		<pixel x="580" y="307"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="15.428572" y="21.600000" z="720.000000"/>
+		<pixel x="580" y="316"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="14.400000" y="19.542856" z="720.000000"/>
+		<pixel x="584" y="324"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="13.114285" y="18.000000" z="720.000000"/>
+		<pixel x="589" y="330"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="11.828571" y="17.485714" z="720.000000"/>
+		<pixel x="594" y="332"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="10.028571" y="16.714285" z="720.000000"/>
+		<pixel x="601" y="335"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="9.000000" y="16.714285" z="720.000000"/>
+		<pixel x="605" y="335"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="7.457143" y="16.714285" z="720.000000"/>
+		<pixel x="611" y="335"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="6.428571" y="16.714285" z="720.000000"/>
+		<pixel x="615" y="335"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="5.657143" y="16.971428" z="720.000000"/>
+		<pixel x="618" y="334"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="5.657143" y="17.228571" z="720.000000"/>
+		<pixel x="618" y="333"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="4.885714" y="18.771429" z="720.000000"/>
+		<pixel x="621" y="327"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="4.885714" y="21.342857" z="720.000000"/>
+		<pixel x="621" y="317"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="4.885714" y="23.400000" z="720.000000"/>
+		<pixel x="621" y="309"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="5.657143" y="27.000000" z="720.000000"/>
+		<pixel x="618" y="295"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="7.200000" y="30.085714" z="720.000000"/>
+		<pixel x="612" y="283"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="9.000000" y="32.914288" z="720.000000"/>
+		<pixel x="605" y="272"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="10.542857" y="34.457142" z="720.000000"/>
+		<pixel x="599" y="266"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="11.828571" y="35.485714" z="720.000000"/>
+		<pixel x="594" y="262"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="12.600000" y="35.485714" z="720.000000"/>
+		<pixel x="591" y="262"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="13.371428" y="35.742859" z="720.000000"/>
+		<pixel x="588" y="261"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="13.885715" y="35.742859" z="720.000000"/>
+		<pixel x="586" y="261"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="14.142858" y="35.742859" z="720.000000"/>
+		<pixel x="585" y="261"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="13.628572" y="35.485714" z="720.000000"/>
+		<pixel x="587" y="262"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="11.314285" y="34.457142" z="720.000000"/>
+		<pixel x="596" y="266"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="9.514286" y="33.685715" z="720.000000"/>
+		<pixel x="603" y="269"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="6.171429" y="32.400002" z="720.000000"/>
+		<pixel x="616" y="274"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="2.828571" y="31.371429" z="720.000000"/>
+		<pixel x="629" y="278"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-0.514286" y="30.600000" z="720.000000"/>
+		<pixel x="642" y="281"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-3.600000" y="30.085714" z="720.000000"/>
+		<pixel x="654" y="283"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-6.685714" y="29.828571" z="720.000000"/>
+		<pixel x="666" y="284"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-7.971428" y="29.828571" z="720.000000"/>
+		<pixel x="671" y="284"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="0.000000" y="0.000000" z="0.000000"/>
+		<pixel x="-6356529" y="1040217430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="0.000000" blank="1"/>
+	</point>
+	<point>
+		<coord x="89.196426" y="-20.491072" z="675.000000"/>
+		<pixel x="270" y="485"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.196426" y="-20.973215" z="675.000000"/>
+		<pixel x="270" y="487"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.196426" y="-21.937500" z="675.000000"/>
+		<pixel x="270" y="491"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.196426" y="-23.383928" z="675.000000"/>
+		<pixel x="270" y="497"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="89.196426" y="-24.348215" z="675.000000"/>
+		<pixel x="270" y="501"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="88.955360" y="-26.035715" z="675.000000"/>
+		<pixel x="271" y="508"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="88.232140" y="-27.723215" z="675.000000"/>
+		<pixel x="274" y="515"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="87.026787" y="-29.169643" z="675.000000"/>
+		<pixel x="279" y="521"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="85.580360" y="-30.375000" z="675.000000"/>
+		<pixel x="285" y="526"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="83.651787" y="-31.098215" z="675.000000"/>
+		<pixel x="293" y="529"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="82.446426" y="-31.339285" z="675.000000"/>
+		<pixel x="298" y="530"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="81.000000" y="-31.339285" z="675.000000"/>
+		<pixel x="304" y="530"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="80.035713" y="-31.339285" z="675.000000"/>
+		<pixel x="308" y="530"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="79.071426" y="-31.339285" z="675.000000"/>
+		<pixel x="312" y="530"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="78.348213" y="-30.857143" z="675.000000"/>
+		<pixel x="315" y="528"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="77.383926" y="-29.410715" z="675.000000"/>
+		<pixel x="319" y="522"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="76.901787" y="-27.482143" z="675.000000"/>
+		<pixel x="321" y="514"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="76.419640" y="-25.553572" z="675.000000"/>
+		<pixel x="323" y="506"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.937500" y="-23.866072" z="675.000000"/>
+		<pixel x="325" y="499"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-22.419643" z="675.000000"/>
+		<pixel x="326" y="493"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-21.696428" z="675.000000"/>
+		<pixel x="326" y="490"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-21.455357" z="675.000000"/>
+		<pixel x="326" y="489"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-21.214285" z="675.000000"/>
+		<pixel x="326" y="488"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-20.973215" z="675.000000"/>
+		<pixel x="326" y="487"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-20.491072" z="675.000000"/>
+		<pixel x="326" y="485"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-20.732143" z="675.000000"/>
+		<pixel x="326" y="486"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-21.214285" z="675.000000"/>
+		<pixel x="326" y="488"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-22.178572" z="675.000000"/>
+		<pixel x="326" y="492"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-24.107143" z="675.000000"/>
+		<pixel x="326" y="500"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-26.276785" z="675.000000"/>
+		<pixel x="326" y="509"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.696426" y="-29.410715" z="675.000000"/>
+		<pixel x="326" y="522"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.455360" y="-31.098215" z="675.000000"/>
+		<pixel x="327" y="529"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="75.214287" y="-33.026787" z="675.000000"/>
+		<pixel x="328" y="537"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="74.491074" y="-34.473213" z="675.000000"/>
+		<pixel x="331" y="543"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="73.767860" y="-35.437500" z="675.000000"/>
+		<pixel x="334" y="547"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="72.321426" y="-36.401787" z="675.000000"/>
+		<pixel x="340" y="551"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="70.392860" y="-36.883930" z="675.000000"/>
+		<pixel x="348" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="67.982140" y="-37.125000" z="675.000000"/>
+		<pixel x="358" y="554"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="66.053574" y="-37.366070" z="675.000000"/>
+		<pixel x="366" y="555"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="64.366074" y="-37.366070" z="675.000000"/>
+		<pixel x="373" y="555"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="63.642857" y="-37.366070" z="675.000000"/>
+		<pixel x="376" y="555"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="62.678570" y="-36.160713" z="675.000000"/>
+		<pixel x="380" y="550"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="62.437500" y="-34.473213" z="675.000000"/>
+		<pixel x="381" y="543"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="62.437500" y="-32.303570" z="675.000000"/>
+		<pixel x="381" y="534"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="62.437500" y="-30.133928" z="675.000000"/>
+		<pixel x="381" y="525"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="62.678570" y="-28.446428" z="675.000000"/>
+		<pixel x="380" y="518"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="63.401787" y="-27.000000" z="675.000000"/>
+		<pixel x="377" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="63.642857" y="-26.276785" z="675.000000"/>
+		<pixel x="376" y="509"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="63.883930" y="-26.035715" z="675.000000"/>
+		<pixel x="375" y="508"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="63.642857" y="-26.035715" z="675.000000"/>
+		<pixel x="376" y="508"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="62.437500" y="-26.276785" z="675.000000"/>
+		<pixel x="381" y="509"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="60.267857" y="-26.517857" z="675.000000"/>
+		<pixel x="390" y="510"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="58.098213" y="-26.758928" z="675.000000"/>
+		<pixel x="399" y="511"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.687500" y="-27.000000" z="675.000000"/>
+		<pixel x="409" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="53.758930" y="-27.000000" z="675.000000"/>
+		<pixel x="417" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="52.794643" y="-27.000000" z="675.000000"/>
+		<pixel x="421" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="52.071430" y="-27.000000" z="675.000000"/>
+		<pixel x="424" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="51.589287" y="-27.000000" z="675.000000"/>
+		<pixel x="426" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="51.348213" y="-27.000000" z="675.000000"/>
+		<pixel x="427" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="51.830357" y="-27.000000" z="675.000000"/>
+		<pixel x="425" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="52.794643" y="-27.482143" z="675.000000"/>
+		<pixel x="421" y="514"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="54.000000" y="-28.446428" z="675.000000"/>
+		<pixel x="416" y="518"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.446430" y="-29.892857" z="675.000000"/>
+		<pixel x="410" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="56.169643" y="-30.857143" z="675.000000"/>
+		<pixel x="407" y="528"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="56.892857" y="-32.062500" z="675.000000"/>
+		<pixel x="404" y="533"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="57.375000" y="-33.508930" z="675.000000"/>
+		<pixel x="402" y="539"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="57.375000" y="-34.232143" z="675.000000"/>
+		<pixel x="402" y="542"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="57.375000" y="-35.678570" z="675.000000"/>
+		<pixel x="402" y="548"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="56.892857" y="-36.642857" z="675.000000"/>
+		<pixel x="404" y="552"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.928570" y="-37.848213" z="675.000000"/>
+		<pixel x="408" y="557"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="54.964287" y="-38.812500" z="675.000000"/>
+		<pixel x="412" y="561"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="53.276787" y="-39.776787" z="675.000000"/>
+		<pixel x="419" y="565"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="52.071430" y="-40.017857" z="675.000000"/>
+		<pixel x="424" y="566"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="51.107143" y="-40.258930" z="675.000000"/>
+		<pixel x="428" y="567"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="50.142857" y="-40.258930" z="675.000000"/>
+		<pixel x="432" y="567"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="49.660713" y="-39.776787" z="675.000000"/>
+		<pixel x="434" y="565"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="49.178570" y="-38.330357" z="675.000000"/>
+		<pixel x="436" y="559"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="49.178570" y="-35.678570" z="675.000000"/>
+		<pixel x="436" y="548"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="49.901787" y="-32.544643" z="675.000000"/>
+		<pixel x="433" y="535"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="51.348213" y="-30.133928" z="675.000000"/>
+		<pixel x="427" y="525"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="53.517857" y="-27.000000" z="675.000000"/>
+		<pixel x="418" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="54.964287" y="-24.830357" z="675.000000"/>
+		<pixel x="412" y="503"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.687500" y="-24.107143" z="675.000000"/>
+		<pixel x="409" y="500"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="56.410713" y="-23.625000" z="675.000000"/>
+		<pixel x="406" y="498"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="56.892857" y="-23.383928" z="675.000000"/>
+		<pixel x="404" y="497"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="56.651787" y="-23.383928" z="675.000000"/>
+		<pixel x="405" y="497"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="55.928570" y="-23.625000" z="675.000000"/>
+		<pixel x="408" y="498"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="54.000000" y="-24.348215" z="675.000000"/>
+		<pixel x="416" y="501"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="51.830357" y="-25.071428" z="675.000000"/>
+		<pixel x="425" y="504"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="49.419643" y="-25.794643" z="675.000000"/>
+		<pixel x="435" y="507"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="47.008930" y="-26.517857" z="675.000000"/>
+		<pixel x="445" y="510"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="44.116070" y="-27.000000" z="675.000000"/>
+		<pixel x="457" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="41.464287" y="-27.241072" z="675.000000"/>
+		<pixel x="468" y="513"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="39.776787" y="-27.482143" z="675.000000"/>
+		<pixel x="475" y="514"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.812500" y="-27.482143" z="675.000000"/>
+		<pixel x="479" y="514"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.330357" y="-27.482143" z="675.000000"/>
+		<pixel x="481" y="514"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.089287" y="-27.482143" z="675.000000"/>
+		<pixel x="482" y="514"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.089287" y="-27.723215" z="675.000000"/>
+		<pixel x="482" y="515"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.089287" y="-28.205357" z="675.000000"/>
+		<pixel x="482" y="517"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.330357" y="-28.687500" z="675.000000"/>
+		<pixel x="481" y="519"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.812500" y="-29.892857" z="675.000000"/>
+		<pixel x="479" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="39.053570" y="-31.339285" z="675.000000"/>
+		<pixel x="478" y="530"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="39.776787" y="-33.508930" z="675.000000"/>
+		<pixel x="475" y="539"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.258930" y="-35.678570" z="675.000000"/>
+		<pixel x="473" y="548"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.500000" y="-36.883930" z="675.000000"/>
+		<pixel x="472" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.741070" y="-37.848213" z="675.000000"/>
+		<pixel x="471" y="557"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.741070" y="-38.330357" z="675.000000"/>
+		<pixel x="471" y="559"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.741070" y="-38.571430" z="675.000000"/>
+		<pixel x="471" y="560"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.741070" y="-37.848213" z="675.000000"/>
+		<pixel x="471" y="557"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.741070" y="-36.401787" z="675.000000"/>
+		<pixel x="471" y="551"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.741070" y="-33.991070" z="675.000000"/>
+		<pixel x="471" y="541"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.741070" y="-32.544643" z="675.000000"/>
+		<pixel x="471" y="535"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.500000" y="-31.098215" z="675.000000"/>
+		<pixel x="472" y="529"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.258930" y="-30.375000" z="675.000000"/>
+		<pixel x="473" y="526"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.258930" y="-29.892857" z="675.000000"/>
+		<pixel x="473" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="40.017857" y="-29.892857" z="675.000000"/>
+		<pixel x="474" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="39.776787" y="-29.892857" z="675.000000"/>
+		<pixel x="475" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="39.535713" y="-29.892857" z="675.000000"/>
+		<pixel x="476" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="38.571430" y="-29.892857" z="675.000000"/>
+		<pixel x="480" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="37.607143" y="-29.892857" z="675.000000"/>
+		<pixel x="484" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="36.160713" y="-29.892857" z="675.000000"/>
+		<pixel x="490" y="524"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="33.991070" y="-30.133928" z="675.000000"/>
+		<pixel x="499" y="525"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="32.303570" y="-30.133928" z="675.000000"/>
+		<pixel x="506" y="525"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="30.616072" y="-30.133928" z="675.000000"/>
+		<pixel x="513" y="525"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.410715" y="-28.687500" z="675.000000"/>
+		<pixel x="518" y="519"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.928572" y="-27.000000" z="675.000000"/>
+		<pixel x="520" y="512"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.446428" y="-24.348215" z="675.000000"/>
+		<pixel x="522" y="501"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.446428" y="-20.008928" z="675.000000"/>
+		<pixel x="522" y="483"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.446428" y="-15.187500" z="675.000000"/>
+		<pixel x="522" y="463"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.446428" y="-11.812500" z="675.000000"/>
+		<pixel x="522" y="449"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.928572" y="-8.919642" z="675.000000"/>
+		<pixel x="520" y="437"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.410715" y="-7.232143" z="675.000000"/>
+		<pixel x="518" y="430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.651785" y="-6.508929" z="675.000000"/>
+		<pixel x="517" y="427"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.892857" y="-6.267857" z="675.000000"/>
+		<pixel x="516" y="426"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.892857" y="-6.750000" z="675.000000"/>
+		<pixel x="516" y="428"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="30.133928" y="-8.678572" z="675.000000"/>
+		<pixel x="515" y="436"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="31.098215" y="-13.258928" z="675.000000"/>
+		<pixel x="511" y="455"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="31.339285" y="-19.526785" z="675.000000"/>
+		<pixel x="510" y="481"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="31.580357" y="-26.517857" z="675.000000"/>
+		<pixel x="509" y="510"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="31.580357" y="-31.098215" z="675.000000"/>
+		<pixel x="509" y="529"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="31.580357" y="-37.125000" z="675.000000"/>
+		<pixel x="509" y="554"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="31.580357" y="-41.223213" z="675.000000"/>
+		<pixel x="509" y="571"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="30.857143" y="-43.151787" z="675.000000"/>
+		<pixel x="512" y="579"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="30.133928" y="-44.598213" z="675.000000"/>
+		<pixel x="515" y="585"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="29.410715" y="-45.080357" z="675.000000"/>
+		<pixel x="518" y="587"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="28.446428" y="-45.321430" z="675.000000"/>
+		<pixel x="522" y="588"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="27.723215" y="-45.321430" z="675.000000"/>
+		<pixel x="525" y="588"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="27.000000" y="-44.598213" z="675.000000"/>
+		<pixel x="528" y="585"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="25.553572" y="-42.669643" z="675.000000"/>
+		<pixel x="534" y="577"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="24.348215" y="-41.223213" z="675.000000"/>
+		<pixel x="539" y="571"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="22.901785" y="-39.535713" z="675.000000"/>
+		<pixel x="545" y="564"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="21.214285" y="-38.089287" z="675.000000"/>
+		<pixel x="552" y="558"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="20.491072" y="-37.125000" z="675.000000"/>
+		<pixel x="555" y="554"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="19.526785" y="-36.642857" z="675.000000"/>
+		<pixel x="559" y="552"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="19.044643" y="-36.160713" z="675.000000"/>
+		<pixel x="561" y="550"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.803572" y="-36.160713" z="675.000000"/>
+		<pixel x="562" y="550"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.562500" y="-36.160713" z="675.000000"/>
+		<pixel x="563" y="550"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.321428" y="-36.160713" z="675.000000"/>
+		<pixel x="564" y="550"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.839285" y="-36.160713" z="675.000000"/>
+		<pixel x="566" y="550"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.357143" y="-36.642857" z="675.000000"/>
+		<pixel x="568" y="552"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.357143" y="-36.883930" z="675.000000"/>
+		<pixel x="568" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.839285" y="-36.883930" z="675.000000"/>
+		<pixel x="566" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.803572" y="-36.883930" z="675.000000"/>
+		<pixel x="562" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="20.491072" y="-36.883930" z="675.000000"/>
+		<pixel x="555" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="22.419643" y="-36.883930" z="675.000000"/>
+		<pixel x="547" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="23.866072" y="-36.883930" z="675.000000"/>
+		<pixel x="541" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="25.071428" y="-37.125000" z="675.000000"/>
+		<pixel x="536" y="554"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="25.553572" y="-37.125000" z="675.000000"/>
+		<pixel x="534" y="554"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.035715" y="-37.607143" z="675.000000"/>
+		<pixel x="532" y="556"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.035715" y="-38.089287" z="675.000000"/>
+		<pixel x="532" y="558"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.035715" y="-39.053570" z="675.000000"/>
+		<pixel x="532" y="562"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="26.035715" y="-40.017857" z="675.000000"/>
+		<pixel x="532" y="566"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="25.794643" y="-41.946430" z="675.000000"/>
+		<pixel x="533" y="574"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="24.589285" y="-43.633930" z="675.000000"/>
+		<pixel x="538" y="581"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="23.625000" y="-44.839287" z="675.000000"/>
+		<pixel x="542" y="586"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="21.696428" y="-45.803570" z="675.000000"/>
+		<pixel x="550" y="590"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="20.732143" y="-46.044643" z="675.000000"/>
+		<pixel x="554" y="591"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="19.285715" y="-46.285713" z="675.000000"/>
+		<pixel x="560" y="592"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.562500" y="-46.285713" z="675.000000"/>
+		<pixel x="563" y="592"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.839285" y="-45.080357" z="675.000000"/>
+		<pixel x="566" y="587"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.598215" y="-42.910713" z="675.000000"/>
+		<pixel x="567" y="578"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.116072" y="-39.776787" z="675.000000"/>
+		<pixel x="569" y="565"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.116072" y="-34.714287" z="675.000000"/>
+		<pixel x="569" y="544"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.116072" y="-27.964285" z="675.000000"/>
+		<pixel x="569" y="516"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.116072" y="-19.526785" z="675.000000"/>
+		<pixel x="569" y="481"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.116072" y="-13.982142" z="675.000000"/>
+		<pixel x="569" y="458"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.357143" y="-9.883928" z="675.000000"/>
+		<pixel x="568" y="441"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.598215" y="-7.232143" z="675.000000"/>
+		<pixel x="567" y="430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.598215" y="-6.508929" z="675.000000"/>
+		<pixel x="567" y="427"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.839285" y="-6.026786" z="675.000000"/>
+		<pixel x="566" y="425"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.839285" y="-5.785714" z="675.000000"/>
+		<pixel x="566" y="424"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.839285" y="-5.544643" z="675.000000"/>
+		<pixel x="566" y="423"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.080357" y="-6.267857" z="675.000000"/>
+		<pixel x="565" y="426"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.562500" y="-10.366072" z="675.000000"/>
+		<pixel x="563" y="443"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.803572" y="-17.116072" z="675.000000"/>
+		<pixel x="562" y="471"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.803572" y="-24.348215" z="675.000000"/>
+		<pixel x="562" y="501"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.803572" y="-31.339285" z="675.000000"/>
+		<pixel x="562" y="530"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="18.803572" y="-35.437500" z="675.000000"/>
+		<pixel x="562" y="547"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="17.839285" y="-39.535713" z="675.000000"/>
+		<pixel x="566" y="564"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="15.910714" y="-44.598213" z="675.000000"/>
+		<pixel x="574" y="585"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="14.705358" y="-46.526787" z="675.000000"/>
+		<pixel x="579" y="593"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="12.776786" y="-49.660713" z="675.000000"/>
+		<pixel x="587" y="606"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="10.848214" y="-52.312500" z="675.000000"/>
+		<pixel x="595" y="617"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="9.642858" y="-53.758930" z="675.000000"/>
+		<pixel x="600" y="623"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="7.955357" y="-55.446430" z="675.000000"/>
+		<pixel x="607" y="630"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="6.991071" y="-55.446430" z="675.000000"/>
+		<pixel x="611" y="630"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="0.000000" y="0.000000" z="-0.000000"/>
+		<pixel x="-6356529" y="1040217430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="0.000000" blank="1"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-14.223214" z="675.000000"/>
+		<pixel x="710" y="459"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-15.187500" z="675.000000"/>
+		<pixel x="710" y="463"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-16.633928" z="675.000000"/>
+		<pixel x="710" y="469"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-20.008928" z="675.000000"/>
+		<pixel x="710" y="483"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-23.625000" z="675.000000"/>
+		<pixel x="710" y="498"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-28.205357" z="675.000000"/>
+		<pixel x="710" y="517"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-32.062500" z="675.000000"/>
+		<pixel x="710" y="533"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-34.473213" z="675.000000"/>
+		<pixel x="710" y="543"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-16.875000" y="-36.883930" z="675.000000"/>
+		<pixel x="710" y="553"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-17.116072" y="-37.607143" z="675.000000"/>
+		<pixel x="711" y="556"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-17.116072" y="-38.089287" z="675.000000"/>
+		<pixel x="711" y="558"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="0.000000" y="0.000000" z="0.000000"/>
+		<pixel x="-6356529" y="1040217430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="0.000000" blank="1"/>
+	</point>
+	<point>
+		<coord x="-20.732143" y="-42.669643" z="675.000000"/>
+		<pixel x="726" y="577"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-20.008928" y="-42.669643" z="675.000000"/>
+		<pixel x="723" y="577"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-19.526785" y="-42.669643" z="675.000000"/>
+		<pixel x="721" y="577"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-18.562500" y="-42.669643" z="675.000000"/>
+		<pixel x="717" y="577"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-18.321428" y="-42.669643" z="675.000000"/>
+		<pixel x="716" y="577"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-18.080357" y="-42.910713" z="675.000000"/>
+		<pixel x="715" y="578"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-18.080357" y="-43.151787" z="675.000000"/>
+		<pixel x="715" y="579"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-17.598215" y="-43.633930" z="675.000000"/>
+		<pixel x="713" y="581"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-17.598215" y="-44.116070" z="675.000000"/>
+		<pixel x="713" y="583"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-17.598215" y="-44.598213" z="675.000000"/>
+		<pixel x="713" y="585"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-17.598215" y="-45.321430" z="675.000000"/>
+		<pixel x="713" y="588"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-17.839285" y="-45.562500" z="675.000000"/>
+		<pixel x="714" y="589"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-18.803572" y="-46.044643" z="675.000000"/>
+		<pixel x="718" y="591"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-19.767857" y="-46.044643" z="675.000000"/>
+		<pixel x="722" y="591"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-20.732143" y="-46.044643" z="675.000000"/>
+		<pixel x="726" y="591"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-21.455357" y="-46.044643" z="675.000000"/>
+		<pixel x="729" y="591"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-21.937500" y="-45.803570" z="675.000000"/>
+		<pixel x="731" y="590"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-22.178572" y="-45.562500" z="675.000000"/>
+		<pixel x="732" y="589"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-22.178572" y="-45.080357" z="675.000000"/>
+		<pixel x="732" y="587"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-22.178572" y="-44.357143" z="675.000000"/>
+		<pixel x="732" y="584"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-22.178572" y="-43.633930" z="675.000000"/>
+		<pixel x="732" y="581"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-21.937500" y="-42.910713" z="675.000000"/>
+		<pixel x="731" y="578"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-21.214285" y="-42.428570" z="675.000000"/>
+		<pixel x="728" y="576"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-20.491072" y="-42.187500" z="675.000000"/>
+		<pixel x="725" y="575"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-19.767857" y="-42.187500" z="675.000000"/>
+		<pixel x="722" y="575"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-19.285715" y="-42.187500" z="675.000000"/>
+		<pixel x="720" y="575"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="-19.044643" y="-42.187500" z="675.000000"/>
+		<pixel x="719" y="575"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="3.000000" blank="0"/>
+	</point>
+	<point>
+		<coord x="0.000000" y="0.000000" z="-0.000000"/>
+		<pixel x="-6356529" y="1040217430"/>
+		<colour red="0.000000" green="0.000000" blue="0.000000"/>
+		<info size="0.000000" blank="1"/>
+	</point>
+</sketch>

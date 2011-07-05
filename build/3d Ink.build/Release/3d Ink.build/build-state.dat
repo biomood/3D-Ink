@@ -1,0 +1,1122 @@
+T3d Ink
+v7
+r0
+t313788858.409847
+cCheck dependencies
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/main.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/MonoCamera.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoCamera.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_List.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Model.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/View.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Controller.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Settings.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_QuadTree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_PRQuadtree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/FileBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/SaveBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ErrorMessage.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ImageBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_Octree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_Octree.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/xmlParser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink" normal i386
+cGenerateDSYMFile "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink.dSYM" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink"
+
+N/Developer-old/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/GLUI.framework/GLUI
+c0000000045D3B70400000000000A687C
+t1171502852
+s682108
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/GLUI.framework/Headers/glui.h
+c0000000045D3B7040000000000017821
+t1171502852
+s96289
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B489326000000000000578C
+t1263047462
+s22412
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004C44D4240000000000025B59
+t1279579172
+s154457
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004C44D4240000000000003F84
+t1279579172
+s16260
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004AC59C810000000000000DCB
+t1254464641
+s3531
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/inttypes.h
+c000000004AC59C8100000000000027D1
+t1254464641
+s10193
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/memory.h
+c000000004AC59C810000000000000765
+t1254464641
+s1893
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/wchar.h
+c000000004AC59C8200000000000025DA
+t1254464642
+s9690
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/wctype.h
+c000000004AC59C810000000000000F66
+t1254464641
+s3942
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/GLUI.framework/GLUI
+c0000000045D3B70400000000000A687C
+t1171502852
+s682108
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/GLUI.framework/Headers/glui.h
+c0000000045D3B7040000000000017821
+t1171502852
+s96289
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B489326000000000000578C
+t1263047462
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004C44D4240000000000025B59
+t1279579172
+s154457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004C44D4240000000000003F84
+t1279579172
+s16260
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004AC59C810000000000000DCB
+t1254464641
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/inttypes.h
+c000000004AC59C8100000000000027D1
+t1254464641
+s10193
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/memory.h
+c000000004AC59C810000000000000765
+t1254464641
+s1893
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h
+c000000004AC59C8200000000000025DA
+t1254464642
+s9690
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/wctype.h
+c000000004AC59C810000000000000F66
+t1254464641
+s3942
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004BD2589F0000000000043820
+t1272076447
+s276512
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004C0FDD7E000000000000A5F0
+t1276108158
+s42480
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004D7713DA0000000000043330
+t1299649498
+s275248
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Analysis.h
+c000000004E08C88F00000000000012DD
+t1309198479
+s4829
+i<cmath>
+i<GLUT/GLUT.h>
+i"Settings.h"
+i"Model.h"
+i"UtilityClasses.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Camera.h
+c000000004BCF11BE0000000000000923
+t1271861694
+s2339
+i<GLUT/GLUT.h>
+i<cmath>
+i"Settings.h"
+i"Model.h"
+i"Controller.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp
+c000000004C02C75C00000000000010CC
+t1275250524
+s4300
+i"Controller.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.h
+c000000004E08C8760000000000000614
+t1309198454
+s1556
+i<GLUT/glut.h>
+i<GL/glfw.h>
+i<cmath>
+i"Model.h"
+i"Settings.h"
+i"UtilityClasses.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_LastNode_Quadtree.cpp
+c000000004C337591000000000000007F
+t1278440849
+s127
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp
+c000000004D03D23300000000000016BB
+t1292096051
+s5819
+i"DataStructure.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_Octree.cpp
+c000000004CFC020400000000000005A4
+t1291584004
+s1444
+i"DataStructure.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp
+c000000004CFC01E700000000000030F0
+t1291583975
+s12528
+i"DataStructure.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp
+c000000004CFC01F500000000000019F4
+t1291583989
+s6644
+i"DataStructure.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DataStructure.h
+c000000004E08C80A0000000000000EB9
+t1309198346
+s3769
+i<GLUT/glut.h>
+i<vector>
+i<cmath>
+i<queue>
+i<string>
+i"UtilityClasses.h"
+i"Settings.h"
+i"xmlParser.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp
+c000000004B40BF3700000000000002C5
+t1262534455
+s709
+i"FileGUI.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp
+c000000004B71CC310000000000000508
+t1265749041
+s1288
+i<exception>
+i"FileGUI.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileGUI.h
+c000000004B71CD140000000000000808
+t1265749268
+s2056
+i<string>
+i<GLUT/GLUT.h>
+i<GLUI/GLUI.h>
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp
+c000000004B71CD150000000000000494
+t1265749269
+s1172
+i"FileGUI.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp
+c000000004D8290420000000000001129
+t1300402242
+s4393
+i"Controller.h"
+i"Model.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.h
+c000000004E08C86200000000000003AF
+t1309198434
+s943
+i<string>
+i<cmath>
+i"Settings.h"
+i"UtilityClasses.h"
+i"DataStructure.h"
+i"FileGUI.h"
+i"xmlParser.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp
+c000000004BCF11CB000000000000054F
+t1271861707
+s1359
+i<stdio.h>
+i<cmath>
+i"Camera.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp
+c000000004B42064A000000000000057F
+t1262618186
+s1407
+i"FileGUI.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp
+c000000004C30CC0E000000000000014B
+t1278266382
+s331
+i"Settings.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.h
+c000000004E08C8830000000000000524
+t1309198467
+s1316
+i<GL/glfw.h>
+i<GLUT/GLUT.h>
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp
+c000000004B69AC7C000000000000057C
+t1265216636
+s1404
+i"FileGUI.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp
+c000000004BCF11EA0000000000000A2E
+t1271861738
+s2606
+i<cmath>
+i"Camera.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/UtilityClasses.h
+c000000004E08C8300000000000000715
+t1309198384
+s1813
+i<vector>
+i<GLUT/glut.h>
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp
+c000000004B4EF010000000000000027F
+t1263464464
+s639
+i"View.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.h
+c000000004E08C8500000000000000177
+t1309198416
+s375
+i<ctime>
+i"UtilityClasses.h"
+i"DataStructure.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/3d Ink
+t1270290618
+s2656520
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/3d Ink.LinkFileList
+c000000004D03D11000000000000009BA
+t1292095760
+s2490
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Controller.o
+t1292095764
+s51552
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_LastNode_Quadtree.o
+t1278440950
+s13544
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_List.o
+t1292096057
+s75756
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_Octree.o
+t1292095767
+s46700
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_PRQuadtree.o
+t1292095766
+s133324
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_QuadTree.o
+t1292095764
+s61268
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ErrorMessage.o
+t1292095766
+s77056
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/FileBrowser.o
+t1292095765
+s77168
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ImageBrowser.o
+t1292095766
+s77048
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Model.o
+t1292095763
+s58908
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/MonoCamera.o
+t1292095760
+s19268
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/SaveBrowser.o
+t1292095766
+s77752
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Settings.o
+t1292095763
+s3020
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoBrowser.o
+t1292095767
+s77144
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoCamera.o
+t1292095762
+s21200
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/View.o
+t1292095763
+s41420
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/main.o
+t1292095762
+s137608
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/xmlParser.o
+t1292095769
+s169220
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/3d Ink
+t2
+s0
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/3d Ink.LinkFileList
+c000000004BB718B50000000000000887
+t1270290613
+s2183
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Controller.o
+t1270290621
+s40344
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_List.o
+t1270290620
+s46260
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_PRQuadtree.o
+t1270290622
+s114552
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_QuadTree.o
+t1270290621
+s38688
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/ErrorMessage.o
+t1270290622
+s77552
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/FileBrowser.o
+t1270290621
+s77580
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/ImageBrowser.o
+t1270290622
+s77428
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Model.o
+t1270290620
+s37280
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/MonoCamera.o
+t1270290619
+s19828
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/SaveBrowser.o
+t1270290622
+s78268
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Settings.o
+t1270290620
+s3096
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/StereoBrowser.o
+t1270290623
+s77800
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/StereoCamera.o
+t1270290619
+s21376
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/View.o
+t1270290620
+s17876
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/main.o
+t1270290620
+s140888
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink
+t1292096058
+s2712848
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink.dSYM
+t1292096058
+s102
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/include/FreeImage.h
+c000000004B4C6F5B000000000000D04C
+t1263300443
+s53324
+i<wchar.h>
+i<inttypes.h>
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/include/GL/glfw.h
+c000000004656CEF40000000000004990
+t1180094196
+s18832
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<GL/gl.h>
+i<GL/glu.h>
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib/libfreeimage.a
+c000000004B4C6F5B00000000008DDFF0
+t1263300443
+s9297904
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib/libglfw.a
+c0000000049AA6740000000000003DC88
+t1235904320
+s253064
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp
+c000000004E08C81000000000000062B4
+t1309198352
+s25268
+i<iostream>
+i<stdlib.h>
+i<GLUT/glut.h>
+i"FreeImage.h"
+i"Model.h"
+i"View.h"
+i"Controller.h"
+i"Camera.h"
+i"Settings.h"
+i"Analysis.h"
+i"FileGUI.h"
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp
+c000000004A439B80000000000001A87A
+t1245944704
+s108666
+i"xmlParser.h"
+i<Windows.h>
+i<memory.h>
+i<assert.h>
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+i<widec.h>
+i<wctype.h>
+i<widec.h>
+
+N/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.h
+c000000004A439D20000000000000A7CF
+t1245945120
+s42959
+i<stdlib.h>
+i<tchar.h>
+i<wchar.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313788856#313788856#0(0"0(0#1#0"8617584384#0"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Controller.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788563.832052
+e313788564.740418
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Controller.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp313788563#313788564#0(0"0(0#0#88"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp8622851680#1732"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Controller.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_LastNode_Quadtree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_LastNode_Quadtree.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s300133749.811271
+e300133750.138759
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_LastNode_Quadtree.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_LastNode_Quadtree.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_LastNode_Quadtree.cpp300133749#300133750#0(0"0(0#0#98"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_LastNode_Quadtree.cpp4300911832#1752"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_LastNode_Quadtree.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_LastNode_Quadtree.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_List.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788856.521606
+e313788857.393977
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_List.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp313788856#313788857#0(0"0(0#0#85"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp8619602976#1726"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_List.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_Octree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_Octree.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788566.918500
+e313788567.715064
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_Octree.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_Octree.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_Octree.cpp313788566#313788567#0(0"0(0#0#87"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_Octree.cpp8619424000#1730"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_Octree.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_Octree.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_PRQuadtree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788564.740527
+e313788566.165664
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_PRQuadtree.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp313788564#313788566#0(0"0(0#0#91"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp8619494208#1738"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_PRQuadtree.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_QuadTree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788563.977411
+e313788564.767533
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_QuadTree.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp313788563#313788564#0(0"0(0#0#89"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp8620715200#1734"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/DS_QuadTree.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ErrorMessage.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788566.165779
+e313788566.895690
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ErrorMessage.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp313788566#313788566#0(0"0(0#0#90"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp8620776288#1736"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ErrorMessage.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/FileBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788564.767650
+e313788565.564176
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/FileBrowser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp313788564#313788565#0(0"0(0#0#89"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp8619181664#1734"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/FileBrowser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ImageBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788566.251092
+e313788566.918383
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ImageBrowser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp313788566#313788566#0(0"0(0#0#90"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp8620389856#1736"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/ImageBrowser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Model.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788562.653609
+e313788563.831796
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Model.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp313788562#313788563#0(0"0(0#0#83"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp8617152544#1722"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Model.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/MonoCamera.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788560.012915
+e313788560.686088
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/MonoCamera.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp313788560#313788560#0(0"0(0#0#88"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp8598983808#1732"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/MonoCamera.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/SaveBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788565.564404
+e313788566.250948
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/SaveBrowser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp313788565#313788566#0(0"0(0#0#89"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp8617433824#1734"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/SaveBrowser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Settings.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788563.853991
+e313788563.977298
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Settings.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp313788563#313788563#0(0"0(0#0#86"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp8621457888#1728"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/Settings.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788566.895800
+e313788567.505146
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoBrowser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp313788566#313788567#0(0"0(0#0#91"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp8619751584#1738"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoBrowser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoCamera.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788560.687063
+e313788562.286688
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoCamera.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp313788560#313788562#0(0"0(0#0#90"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp8619015040#1736"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/StereoCamera.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/View.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788563.105187
+e313788563.853894
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/View.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp313788563#313788563#0(0"0(0#0#82"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp8620256704#1720"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/View.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/main.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788560.011719
+e313788562.653495
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/main.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp313788560#313788562#0(0"0(0#0#82"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp8601055872#1720"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/xmlParser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s313788567.505379
+e313788569.119934
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/xmlParser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp: In member function 'char* ToXMLStringTool::toXML(const char*)':
+o/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp:710: warning: deprecated conversion from string constant to 'char*'
+lSLF07#2@95"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp313788567#313788569#0(309"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp: In member function 'char* ToXMLStringTool::toXML(const char*)':/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp:710: warning: deprecated conversion from string constant to 'char*'1(22@53"Deprecated conversion from string constant to 'char*'313788567#153#156#0(6@87"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp267637504#710#0#710#0#49"deprecated conversion from string constant to '*'0(0#0#87"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp8617439552#1730"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/i386" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/xmlParser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/xmlParser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Controller.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983420.630701
+e291983421.211620
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Controller.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp291983420#291983421#0(0"0(0#0#88"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp4300885448#1732"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Controller.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Controller.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_List.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983419.940570
+e291983420.419359
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_List.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp291983419#291983420#0(0"0(0#0#85"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp4300885448#1726"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_List.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_List.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_PRQuadtree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983421.204275
+e291983422.269225
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_PRQuadtree.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp291983421#291983422#0(0"0(0#0#91"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp4300885448#1738"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_PRQuadtree.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_PRQuadtree.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_QuadTree.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983420.797868
+e291983421.204157
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_QuadTree.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp291983420#291983421#0(0"0(0#0#89"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp4300885448#1734"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/DS_QuadTree.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/DS_QuadTree.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/ErrorMessage.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983422.269436
+e291983422.770663
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/ErrorMessage.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp291983422#291983422#0(0"0(0#0#90"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp4300885448#1736"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ErrorMessage.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/ErrorMessage.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/FileBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983421.211738
+e291983421.887681
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/FileBrowser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp291983421#291983421#0(0"0(0#0#89"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp4300885448#1734"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/FileBrowser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/FileBrowser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/ImageBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983422.370076
+e291983422.866183
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/ImageBrowser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp291983422#291983422#0(0"0(0#0#90"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp4300885448#1736"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/ImageBrowser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/ImageBrowser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Model.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983420.032419
+e291983420.630581
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Model.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp291983420#291983420#0(0"0(0#0#83"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp4300885448#1722"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Model.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Model.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/MonoCamera.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983418.775833
+e291983419.444988
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/MonoCamera.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp291983418#291983419#0(0"0(0#0#88"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp4300885448#1732"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/MonoCamera.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/MonoCamera.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/SaveBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983421.887798
+e291983422.369956
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/SaveBrowser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp291983421#291983422#0(0"0(0#0#89"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp4300885448#1734"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/SaveBrowser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/SaveBrowser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Settings.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983420.723145
+e291983420.797746
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Settings.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp291983420#291983420#0(0"0(0#0#86"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp4300885448#1728"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/Settings.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/Settings.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/StereoBrowser.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983422.770783
+e291983423.196691
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/StereoBrowser.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp291983422#291983423#0(0"0(0#0#91"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp4300885448#1738"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoBrowser.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/StereoBrowser.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/StereoCamera.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983419.445108
+e291983419.940456
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/StereoCamera.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp291983419#291983419#0(0"0(0#0#90"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp4300885448#1736"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/StereoCamera.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/StereoCamera.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/View.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983420.419584
+e291983420.723026
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/View.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp291983420#291983420#0(0"0(0#0#82"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp4300885448#1720"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/View.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/View.o"0#
+
+CCompileC "build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/main.o" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+s291983417.417890
+e291983420.032301
+r1
+xCompileC
+xbuild/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/main.o
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp291983417#291983420#0(0"0(0#0#82"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp4300885448#1720"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-generated-files.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-own-target-headers.hmap" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-all-target-headers.hmap" -iquote "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/3d Ink-project-headers.hmap" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/include" -Iinclude "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources/ppc" "-I/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/DerivedSources" -c "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/main.cpp" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/main.o"0#
+
+CCreateUniversalBinary "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink" normal "i386 ppc"
+r0
+
+CGenerateDSYMFile "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink.dSYM" "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink"
+s313788858.311246
+e313788858.409796
+r1
+xGenerateDSYMFile
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink.dSYM
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink
+lSLF07#2@67"GenerateDSYMFile "build/Release/3d Ink.dSYM" "build/Release/3d Ink"313788858#313788858#0(0"0(0#0#94"/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink8622728640#317"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    /Developer/usr/bin/dsymutil "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink" -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink.dSYM"0#
+
+CLd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/3d Ink" normal i386
+s291983417.821023
+e291983418.775615
+r1
+xLd
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/3d Ink
+xnormal
+xi386
+lSLF07#2@145"Link /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/3d Ink291983417#291983418#0(0"0(0#0#0"4300885448#919"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-L/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin -filelist "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/3d Ink.LinkFileList" -mmacosx-version-min=10.6 -framework GLUT -framework Carbon -framework OpenGL -framework AGL -lglfw -framework GLUI -lfreeimage -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/3d Ink"0#
+
+CLd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/3d Ink" normal ppc
+s291983423.196800
+e291983423.964422
+r0
+xLd
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/3d Ink
+xnormal
+xppc
+old: warning: in /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib/libglfw.a, file is not of required architecture
+old: warning: in /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib/libfreeimage.a, missing required architecture ppc in file
+oUndefined symbols:
+o  "_FreeImage_GetHeight", referenced from:
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadBackground()     in main.o
+o      loadBackground()     in main.o
+o      loadBackground()     in main.o
+o  "_FreeImage_ConvertTo24Bits", referenced from:
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadBackground()     in main.o
+o  "_FreeImage_GetWidth", referenced from:
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadBackground()     in main.o
+o      loadBackground()     in main.o
+o      loadBackground()     in main.o
+o  "_FreeImage_ConvertFromRawBits", referenced from:
+o      exportImage()     in main.o
+o      exportImage()     in main.o
+o  "_FreeImage_GetBits", referenced from:
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadBackground()     in main.o
+o  "_FreeImage_Save", referenced from:
+o      exportImage()     in main.o
+o      exportImage()     in main.o
+o  "_FreeImage_Unload", referenced from:
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadBackground()     in main.o
+o  "_FreeImage_GetFileType", referenced from:
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadBackground()     in main.o
+o  "_FreeImage_Load", referenced from:
+o      loadStereoBackground()     in main.o
+o      loadStereoBackground()     in main.o
+o      loadBackground()     in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@144"Link /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/3d Ink291983423#291983423#0(2250"ld: warning: in /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib/libglfw.a, file is not of required architectureld: warning: in /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib/libfreeimage.a, missing required architecture ppc in fileUndefined symbols:  "_FreeImage_GetHeight", referenced from:      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadBackground()     in main.o      loadBackground()     in main.o      loadBackground()     in main.o  "_FreeImage_ConvertTo24Bits", referenced from:      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadBackground()     in main.o  "_FreeImage_GetWidth", referenced from:      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadBackground()     in main.o      loadBackground()     in main.o      loadBackground()     in main.o  "_FreeImage_ConvertFromRawBits", referenced from:      exportImage()     in main.o      exportImage()     in main.o  "_FreeImage_GetBits", referenced from:      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadBackground()     in main.o  "_FreeImage_Save", referenced from:      exportImage()     in main.o      exportImage()     in main.o  "_FreeImage_Unload", referenced from:      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadBackground()     in main.o  "_FreeImage_GetFileType", referenced from:      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadBackground()     in main.o  "_FreeImage_Load", referenced from:      loadStereoBackground()     in main.o      loadStereoBackground()     in main.o      loadBackground()     in main.old: symbol(s) not foundcollect2: ld returned 1 exit status50(22@128"In /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib/libglfw.a, file is not of required architecture291983423#0#142#0(6@0"291983423#0#0#0#0#0"0(22@138"In /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib/libfreeimage.a, missing required architecture ppc in file291983423#142#152#0(6@0"291983423#0#0#0#0#0"0(4@40""_FreeImage_GetHeight", referenced from:291983423#313#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#356#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#399#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#442#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#485#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#528#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#571#43#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#614#37#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#651#37#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#688#37#0(6@0"291983423#0#0#0#0#0"0(4@46""_FreeImage_ConvertTo24Bits", referenced from:291983423#725#49#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#774#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#817#43#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#860#37#0(6@0"291983423#0#0#0#0#0"0(4@39""_FreeImage_GetWidth", referenced from:291983423#897#42#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#939#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#982#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1025#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1068#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1111#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1154#43#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#1197#37#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#1234#37#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#1271#37#0(6@0"291983423#0#0#0#0#0"0(4@49""_FreeImage_ConvertFromRawBits", referenced from:291983423#1308#52#0(6@0"291983423#0#0#0#0#0"0(13@27"ExportImage()     in main.o291983423#1360#34#0(6@0"291983423#0#0#0#0#0"0(13@27"ExportImage()     in main.o291983423#1394#34#0(6@0"291983423#0#0#0#0#0"0(4@38""_FreeImage_GetBits", referenced from:291983423#1428#41#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1469#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1512#43#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#1555#37#0(6@0"291983423#0#0#0#0#0"0(4@35""_FreeImage_Save", referenced from:291983423#1592#38#0(6@0"291983423#0#0#0#0#0"0(13@27"ExportImage()     in main.o291983423#1630#34#0(6@0"291983423#0#0#0#0#0"0(13@27"ExportImage()     in main.o291983423#1664#34#0(6@0"291983423#0#0#0#0#0"0(4@37""_FreeImage_Unload", referenced from:291983423#1698#40#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1738#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1781#43#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#1824#37#0(6@0"291983423#0#0#0#0#0"0(4@42""_FreeImage_GetFileType", referenced from:291983423#1861#45#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1906#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#1949#43#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#1992#37#0(6@0"291983423#0#0#0#0#0"0(4@35""_FreeImage_Load", referenced from:291983423#2029#38#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#2067#43#0(6@0"291983423#0#0#0#0#0"0(13@36"LoadStereoBackground()     in main.o291983423#2110#43#0(6@0"291983423#0#0#0#0#0"0(13@30"LoadBackground()     in main.o291983423#2153#37#0(6@0"291983423#0#0#0#0#0"0(13@19"Symbol(s) not found291983423#2190#24#0(6@0"291983423#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status291983423#2214#36#0(6@0"291983423#0#0#0#0#0"0(0#0#0"4300885448#916"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-L/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -Fbin -filelist "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/3d Ink.LinkFileList" -mmacosx-version-min=10.6 -framework GLUT -framework Carbon -framework OpenGL -framework AGL -lglfw -framework GLUI -lfreeimage -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/ppc/3d Ink"1#
+
+CLd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink" normal i386
+s313788857.394078
+e313788858.311050
+r1
+xLd
+x/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink
+xnormal
+xi386
+lSLF07#2@99"Link /Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink313788857#313788858#0(0"0(0#0#0"8616647488#867"    cd "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" "-L/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/lib" "-F/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release" -filelist "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/3d Ink.build/Release/3d Ink.build/Objects-normal/i386/3d Ink.LinkFileList" -mmacosx-version-min=10.6 -framework GLUT -framework Carbon -framework OpenGL -framework AGL -lglfw -framework GLUI -lfreeimage -o "/Users/biomood/Documents/University/Third Year/Project/Source Code/3d Ink/build/Release/3d Ink"0#
+
